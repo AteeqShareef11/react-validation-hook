@@ -117,17 +117,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 5.  Push to the branch: `git push origin my-new-feature`
 6.  Submit a pull request :sunglasses:
 
-## Credits
-
-TODO: Write credits
-
-## Built With
-
-- Dropwizard - Bla bla bla
-- Maven - Maybe
-- Atom - ergaerga
-- Love
-
 ## Authors
 
 - **Ateeq Shareef** - _Initial work_
