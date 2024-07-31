@@ -1,6 +1,6 @@
 {
   "name": "react-form-validation-hook-v1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useForm is a lightweight, customizable React hook designed to simplify form handling and validation in your React applications. It provides a straightforward interface to manage form state, handle input changes, and validate fields based on user-defined rules.",
   "main": "src/useForm.js",
   "scripts": {
